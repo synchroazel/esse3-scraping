@@ -1,0 +1,76 @@
+Course,SSD,CFU,Hours,Semester,Lecturer,Mut. Code,Mut. Dep,Curriculum,TAF affine A11,TAF affine A12,TAF Affine A13,TAF affine A14,Table 1A,Table 1B,Table 2A,Table 2B,Table 3A,Table 3B
+Advanced Hands on fMRI Analysis,M-PSI/02,6,42,2,"S.Bracci
+M.Wur
+ S.Fairhall",154122,CIMEC,,TRUE,,,TRUE,,,,,,TRUE
+Advanced social networks,SPS/07,6,48,1,F. Agneessens,135727,DSRS,,,TRUE,,,TRUE,,,,,
+Bayesian Statistics,MAT/06,6,42,2,"P. Novi Inverardi
+C. Agostinelli",145561,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+Behavioural Economics,SECS-P/01,8,64,1,L. Mittone,121428,DEM,,TRUE,,,TRUE,,,,,TRUE,
+Big Data Technologies,ING-INF/05,6,48,2,D. Miorandi ,,,Both,,,,,,,,,,
+Bio-Inspired Artificial Intelligence,ING-INF/05,6,48,2,G. Iacca,145763,DISI,,,,TRUE,,,,,TRUE,,
+Computational Linguistics,ING-INF/05,9,63,1,R. Bernardi,154057,CIMEC,,,,TRUE,,,,TRUE,,,
+Computational Social Science,SPS/07,6,48,2,G. A. Veltri ,,,B,,,,,,,,,,
+Data mining,ING-INF/05,6,36,1,Y. Velegrakis ,145453,DIS,A,,,,,,,,,,
+Data science and Psychology: Methods and applications,M-PSI/06,6,42,1,"E. Perinelli
+G. Alessandri ",,,A,,,,,,,,,,
+Data science and Sociology: methods and applications,SPS/07,6,48,1,"E. Pavan
+G. A. Veltri ",,,A,,,,,,,,,,
+Data visualization Lab,INF/01,6,48,2,G. Jurman ,,,Both,,,,,,,,,,
+Decision and Risk Analysis,SECS-S/06,6,60,2,M. Brunelli,146008,DII,,TRUE,,,TRUE,,,,,TRUE,
+Deep Learning Lab,ING-INF/05,6,48,2,E. Ricci,145857,DISI,,,,TRUE,,,,,TRUE,,
+Designing and programming the Internet of Things (IoT),ING-INF/01,6,60,2,"D. Brunelli
+D. Fontanelli",145782,DII,,,,TRUE,,,,,TRUE,,
+Digital social data,SPS/07,6,48,1,I. Bison,135326,DSRS,,,TRUE,,,,TRUE,,,,
+Distributed systems for measurement and automation,ING-INF/07,6,60,1,D. Fontanelli,140472,DII,,,,TRUE,,,,,TRUE,,
+Economic and labour sociology,SPS/09,6,48,1,P. Barbieri,135317,DSRS,,,TRUE,,,TRUE,,,,,
+Embedded Systems,ING-INF/01,9,90,1,D. Brunelli,140502,DII,,,,TRUE,,,,,TRUE,,
+Enterprise information system,ING-INF/05,6,60,1,L. Mich,145489,DII,,,,TRUE,,,,TRUE,,,
+Fundamental Hands on Functional Neuroimaging Analysis,M-PSI/02,6,42,1,"J.Jovicich
+D.Baldauf ",154119,CIMEC,,TRUE,,,TRUE,,,,,,TRUE
+Geometry and Topology for Data Analysis,MAT/03,6,42,2,A. Oneto,145905,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+"Geospatial analysis and representation
+for data science",SECS-S/03,6,36,1,D. Giuliani,,,,,TRUE,,,,TRUE,,,,
+High Performance Computing for Data Science,ING-INF/05,6,48,1,S.L.Fiore,145972,DISI,,,,TRUE,,,,,TRUE,,
+"Information, Knowledge and Service Management",SECS-P/10,6,48,2,R. Cuel ,,,A,,,,,,,,,,
+Intellectual Property and Competition Law,IUS/04,8,48,1,S. Vezzoso,121397,DEM,,,TRUE,,,TRUE,,,,,
+Internship,,9,,,,,,Both,,,,,,,,,,
+Introduction to Computer and Network Security,INF/01,6,48,1,S. Ranise,145937,DISI,,,,TRUE,,,,TRUE,,,
+Introduction to Machine Learning,ING-INF/05,6,48,2,"A. Moschitti
+P. Rota ",,,,,,,,,,,,,
+Introduction to Machine Learning for Natural Language Processing,ING-INF/05,9,63,2,A. Herbelot,154085,CIMEC,,,,TRUE,,,,TRUE,TRUE,,
+Knowledge and Data Integration,ING-INF/05,6,48,1,F. Giunchiglia,145919,DISI,,,,TRUE,,,,,TRUE,,
+Laboratory of Biological Data Mining,ING-INF/05,6,48,1,E. Blanzieri,145547,QCB,,,,TRUE,,,,,TRUE,,
+Laboratory of Customer and Business Analytics,SECS-S/03,6,48,1,D. Giuliani,,,,,TRUE,,,,TRUE,,,,
+Law and Data,IUS/14,6,48,1,P. Guarda ,,,Both,,,,,,,,,,
+Linear algebra for statistics,MAT/02,6,48,1,S. Ugolini ,145539,QCB,B,,,,,,,,,,
+Machine learning,INF/01,6,48,1,A. Passerini,145062,DISI,,,,TRUE,,,,TRUE,,,
+Mathematical Biology,MAT/05,6,72,1,A. Pugliese,145145,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+Network-Based Data Analysis,INF/01,6,48,2,M. Lauria,145573,QCB,,,,TRUE,,,,,TRUE,,
+Neuroimaging for Data Science,M-PSI/02,6,42,1,"M. Tettamanti
+D. Baldauf",154107,CIMeC,,TRUE,,,TRUE,,,,,TRUE,
+Optimization models and algorithms,SECS-S/06,6,60,2,M. Fedrizzi,145534,DII,,TRUE,,,TRUE,,,,,TRUE,
+Performance analysis and business analytics,SECS-P/08,6,36,2,E. Zaninotto,121426,DEM,,TRUE,,,TRUE,,,,,,TRUE
+Professional English for Data Science,L-LIN/12,3,48,1 or 2, ,,,Both,,,,,,,,,,
+Project Course,INF/01 or ING-INF/05,6,,1,All ,145301,DISI,,,,TRUE,,,,,TRUE,,
+Project management,SECS-P/10,6,48,1,A. Molinari,,,,,TRUE,,,,TRUE,,,,
+Quantitative Methods,SPS/07,6,48,1,S.Scherer ,135309,DSRS,,,TRUE,,,TRUE,,,,,
+Quantitative Methods Lab,SPS/07,3,24,1,S.Scherer ,135310,DSRS,,,TRUE,,,,TRUE,,,,
+Research Methodology - Quantitative,M-PSI/03,6,42,2,L. Lombardi,155007,DiPSCo,,,TRUE,,,TRUE,,,,,
+Scientific Programming: Algorithms and Data Structures,INF/01,6,48,1,E. Dassi ,145540,QCB,B,,,,,,,,,,
+Scientific Programming: Programming,INF/01,6,48,1,A. Pugliese ,145540,QCB,B,,,,,,,,,,
+Social Dynamics Lab,SPS/07,6,42,1,"I.Bison
+G.Veltri ",,,,,TRUE,,,,TRUE,,,,
+"Social inequalities: dynamics and
+policies",SPS/07,6,48,1,R. Grotti,135344,DSRS,,,TRUE,,,TRUE,,,,,
+Statistical Learning: Statistical Methods,SECS-S/01,6,48,1,"M. Coghi
+L: A. Bianchi ",145539,QCB,Both,,,,,,,,,,
+Statistical Learning: Statistical Models,SECS-S/01,6,48,2,V. Vinciotti ,146044,QCB,Both,,,,,,,,,,
+Statistical models,MAT/06,6,42,1,V. Vinciotti,145914,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+Statistics for opinion research,SECS-S/05,6,48,2,R. Luijkx,135311,DSRS,,TRUE,,,TRUE,,,,,TRUE,
+Statistics of Stochastic Processes,MAT/06,6,48,1,C. Agostinelli,145256,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+Stochastic Processes,MAT/06,9,63,1,S. Bonaccorsi,145435,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+Studies on human behaviour,SPS/07,6,48,1,"I.Bison
+F.Giunchiglia ",,,,,TRUE,,,,TRUE,,,,
+Tensor Decomposition for Big Data Analysis,MAT/02,6,42,1,A. Bernardi,145909,DMaths,,TRUE,,,TRUE,,,,,TRUE,
+Thesis,,18,,,,,,Both,,,,,,,,,,
+Web Architectures,INF/01,6,48,1,M. Ronchetti,145085,DISI,,,,TRUE,,,,TRUE,,,
